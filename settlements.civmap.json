@@ -88,9 +88,27 @@
 	],
 	"features": [
 		{
+			"name": "Bakaborough",
+			"x":  5600,
+			"z": -1500,
+			"discord": "Magnileve#2995",
+			"zoomvis": 3,
+			"nation": "Terra Leporis Maximi",
+			"notes": "Old capital of Terra Leporis Maximi",
+			"id": "CivMC/Terra Leporis Maximi/Bakaborough"
+		},
+		{
+			"name": "Cape Cocoa",
+			"x":  4097,
+			"z": -2375,
+			"zoomvis": 3,
+			"nation": "Lambat",
+			"id": "CivMC/Lambat/Cape Cocoa"
+		},
+		{
 			"name": "Cragdude",
-			"x": 9291,
-			"z": 5354,
+			"x":  4541,
+			"z": -3180,
 			"discord": "Vejou#7339",
 			"zoomvis": 4,
 			"nation": "Weirdscraftland",
@@ -98,22 +116,32 @@
 		},
 		{
 			"name": "Lambat City",
-			"x": 3900,
+			"x":  3900,
 			"z": -1350,
-			"discord": "Vejou#7339",
 			"zoomvis": 1,
 			"nation": "Lambat",
+			"notes": "Capital of Lambat",
 			"id": "CivMC/Lambat/Lambat City"
 		},
 		{
 			"name": "Treefarmguys",
-			"x": 9291,
-			"z": 5354,
+			"x":  4712,
+			"z": -3048,
 			"discord": "MinersHavenM43#8660",
 			"zoomvis": 3,
 			"nation": "Weirdscraftland",
 			"notes": "Capital of Weirdscraftland",
 			"id": "CivMC/Weirdscraftland/Treefarmguys"
-		}
+		},
+		{
+			"name": "Wabbittown",
+			"x":  4400,
+			"z": -7000,
+			"discord": "Magnileve#2995",
+			"zoomvis": 3,
+			"nation": "Terra Leporis Maximi",
+			"notes": "Capital of Terra Leporis Maximi",
+			"id": "CivMC/Terra Leporis Maximi/Wabbittown"
+		},
 	]
 }
